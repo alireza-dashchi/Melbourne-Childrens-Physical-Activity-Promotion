@@ -1,0 +1,56 @@
+latitude,longitude,landmark_name,landmark_type,landmark_id,suburb,postcode
+-37.78408644,144.9619678,Carlton Football Club,Major Sports & Recreation Facility,1,Carlton North,3054
+-37.80176908,144.9719976,Carlton Gardens North,Informal Outdoor Facility (Park/Garden/Reserve),2,Carlton,3053
+-37.82552398,144.9741079,Kings Domain,Informal Outdoor Facility (Park/Garden/Reserve),3,Melbourne,3004
+-37.79080826,144.912143,Flemington Racecourse,Major Sports & Recreation Facility,4,Flemington,3031
+-37.81439936,144.9759523,Treasury Gardens,Informal Outdoor Facility (Park/Garden/Reserve),5,East Melbourne,3000
+-37.81949216,144.9834029,Melbourne Cricket Ground (MCG),Major Sports & Recreation Facility,6,East Melbourne,3000
+-37.82163812,144.9710495,Queen Victoria Gardens,Informal Outdoor Facility (Park/Garden/Reserve),7,Melbourne,3004
+-37.81785166,144.9689636,Federation Square,Informal Outdoor Facility (Park/Garden/Reserve),8,Melbourne,3000
+-37.81521788,144.9416179,New Quay,Informal Outdoor Facility (Park/Garden/Reserve),9,Docklands,3008
+-37.78784733,144.9229721,Newmarket Reserve,Informal Outdoor Facility (Park/Garden/Reserve),10,Kensington,3031
+-37.82204561,144.9784872,Rod Laver Arena,Major Sports & Recreation Facility,11,Melbourne,3004
+-37.8209086,144.9787358,Melbourne Park,Major Sports & Recreation Facility,12,Melbourne,3000
+-37.82311,144.9818348,Hisense Arena,Major Sports & Recreation Facility,13,Melbourne,3004
+-37.79823588,144.9238371,J.J Holland Park,Informal Outdoor Facility (Park/Garden/Reserve),14,Kensington,3031
+-37.81112229,144.9546961,Flagstaff Gardens,Informal Outdoor Facility (Park/Garden/Reserve),15,West Melbourne,3000
+-37.84139967,144.9816257,Fawkner Park,Informal Outdoor Facility (Park/Garden/Reserve),16,Melbourne,3004
+-37.81296163,144.9804557,Fitzroy Gardens,Informal Outdoor Facility (Park/Garden/Reserve),17,East Melbourne,3002
+-37.82021027,144.9592769,Enterprize Park,Informal Outdoor Facility (Park/Garden/Reserve),18,Melbourne,3000
+-37.79833187,144.9715141,Macarthur Square,Informal Outdoor Facility (Park/Garden/Reserve),19,Carlton,3053
+-37.80715854,144.9631898,City Baths,Major Sports & Recreation Facility,20,Melbourne,3000
+-37.83149186,144.9088248,Westgate Park,Informal Outdoor Facility (Park/Garden/Reserve),21,Port Melbourne,3207
+-37.81617605,144.9474963,Etihad Stadium,Major Sports & Recreation Facility,22,Docklands,3008
+-37.8201763,144.9629811,Sandridge Rail Bridge,Informal Outdoor Facility (Park/Garden/Reserve),23,Southbank,3006
+-37.80279197,144.9627609,Lincoln Square,Informal Outdoor Facility (Park/Garden/Reserve),24,Carlton,3053
+-37.80606846,144.9712665,Carlton Gardens South,Informal Outdoor Facility (Park/Garden/Reserve),25,Carlton,3053
+-37.78343039,144.9619826,Visy Park,Major Sports & Recreation Facility,26,Carlton North,3054
+-37.82184609,144.9566658,Batman Park,Informal Outdoor Facility (Park/Garden/Reserve),27,Melbourne,3000
+-37.82472527,144.983803,AAMI Park,Major Sports & Recreation Facility,28,Melbourne,3004
+-37.82132521,144.9775911,Margaret Court Arena,Major Sports & Recreation Facility,29,Melbourne,3000
+-37.81806108,144.9731467,Birrarung Marr,Informal Outdoor Facility (Park/Garden/Reserve),30,Melbourne,3000
+-37.81841988,144.9715426,Artplay,Indoor Recreation Facility,31,Melbourne,3000
+-37.82078871,144.9729518,Riverslide Skate Park,Informal Outdoor Facility (Park/Garden/Reserve),32,Melbourne,3004
+-37.79061743,144.9538342,Royal Park,Informal Outdoor Facility (Park/Garden/Reserve),33,Parkville,3052
+-37.8320734,144.9736284,Shrine of Rembrance Reserve,Informal Outdoor Facility (Park/Garden/Reserve),34,Melbourne,3004
+-37.83066316,144.9808504,Royal Botanic Gardens,Informal Outdoor Facility (Park/Garden/Reserve),35,Melbourne,3004
+-37.82046937,144.9866711,Yarra Park,Informal Outdoor Facility (Park/Garden/Reserve),36,East Melbourne,3002
+-37.81218812,144.935684,Icehouse,Indoor Recreation Facility,37,Docklands,3008
+-37.81299207,144.9890626,Darling Square,Informal Outdoor Facility (Park/Garden/Reserve),38,East Melbourne,3002
+-37.80985262,144.9734622,Parliament Reserve,Informal Outdoor Facility (Park/Garden/Reserve),39,East Melbourne,3002
+-37.799947,144.9432908,North Melbourne Recreation Centre (Aquatic),Major Sports & Recreation Facility,40,North Melbourne,3051
+-37.79970512,144.9403683,North Melbourne Recreation Centre (Gymnasium),Gymnasium/Health Club,41,North Melbourne,3051
+-37.7934377,144.9716965,Carlton Baths,Indoor Recreation Facility,42,Carlton,3053
+-37.785786,144.947581,State Netball Hockey Centre,Major Sports & Recreation Facility,43,Parkville,3052
+-37.80041071,144.9603983,University Square,Informal Outdoor Facility (Park/Garden/Reserve),44,Carlton,3053
+-37.81169299,144.9872757,Powlett Reserve,Informal Outdoor Facility (Park/Garden/Reserve),45,East Melbourne,3002
+-37.821674,144.9881563,Richmond Football Club,Informal Outdoor Facility (Park/Garden/Reserve),46,East Melbourne,3002
+-37.82099568,144.9467817,Docklands Park,Informal Outdoor Facility (Park/Garden/Reserve),47,Docklands,3008
+-37.82335227,144.9421023,Point Park,Informal Outdoor Facility (Park/Garden/Reserve),48,Docklands,3008
+-37.82060514,144.9717961,Alexandra Gardens,Informal Outdoor Facility (Park/Garden/Reserve),49,Melbourne,3004
+-37.79883453,144.9414521,North Melbourne Recreation Reserve,Informal Outdoor Facility (Park/Garden/Reserve),50,North Melbourne,3051
+-37.78701617,144.9611152,Princes Park,Informal Outdoor Facility (Park/Garden/Reserve),51,Carlton North,3052
+-37.80314806,144.9657613,Argyle Square,Informal Outdoor Facility (Park/Garden/Reserve),52,Carlton,3053
+-37.80251642,144.9658631,Piazza Italia,Informal Outdoor Facility (Park/Garden/Reserve),53,Carlton,3053
+-37.8002735,144.9730593,Murchinson Square,Informal Outdoor Facility (Park/Garden/Reserve),54,Carlton,3065
+-37.82424569,144.9797203,Westpac Centre,Major Sports & Recreation Facility,55,Melbourne,3004
