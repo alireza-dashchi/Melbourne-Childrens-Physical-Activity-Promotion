@@ -1,6 +1,6 @@
 # I Like To Move It
 
-![1](assets/images/1.png)
+![1](Assets/images/1.png)
 
 ## Project Overview
 **Melbourne Children's Physical Activity Promotion** is a web-based solution designed to address the low levels of physical activity among immigrant children aged 5–14 in Melbourne. The platform overcomes barriers such as safety concerns, unfamiliarity with local facilities, and lack of guidance by offering interactive features and real-time resources.
@@ -59,22 +59,22 @@ Low physical activity levels affect a large portion of children in Melbourne, wi
 - **Interactive Map with Dynamic Safety Ratings**
   - Generates a location safety score based on crime data, traffic accidents, and weather.
   - Provides directions for walking or cycling when relevant.
-  ![map](assets/images/map.png)
+  ![map](Assets/images/map.png)
 
 - **Learning Hub**
   - Includes user-friendly content on physical activity benefits, guidelines, and first aid/safety practices.
-  ![learning_hub](assets/images/learning_hub.png)
+  ![learning_hub](Assets/images/learning_hub.png)
 
 - **AI Chatbot**
   - Provides on-the-fly translations and exercise recommendations.
   - Answers questions about health, safety, and navigation.
-  ![chatbot](assets/images/chatbot.png)
+  ![chatbot](Assets/images/chatbot.png)
 
 - **Parental Guidance Dashboard**
   - Returns a spider chart based on survey responses regarding a child’s activity.
   - Recommends strategies to meet official guidelines.
-  ![parents](assets/images/parents.png)
-  ![parent_feedback](assets/images/parent_feedback.png)
+  ![parents](Assets/images/parents.png)
+  ![parent_feedback](Assets/images/parent_feedback.png)
 
 ## 3. Target Audience
 - **Primary**: Immigrant children aged 5–14 in Melbourne. They often lack familiarity with local environments and may require extra support in staying active.
