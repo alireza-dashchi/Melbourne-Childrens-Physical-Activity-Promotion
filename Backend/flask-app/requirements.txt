@@ -1,0 +1,13 @@
+flask
+flask-cors
+gunicorn
+requests
+python-dotenv
+polyline
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+
+# Requirements for parental guidance feature
+matplotlib
+
+# Requiements for the OpenAI chatbot
+openai

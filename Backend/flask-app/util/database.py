@@ -24,13 +24,5 @@ class AppDatabaseContextManager(SQLiteContextManager):
     """
     Context manager for the application's main database.
     """
-    def __init__(self, db_path='data/app_database.db'):
+    def __init__(self, db_path='database/ILikeToMoveIt.db'):
         super().__init__(db_path)
-
-
-class SafetyMapDatabaseContextManager(SQLiteContextManager):
-    """
-    Context manager for the safety map database.
-    """
-    def __init__(self):
-        super().__init__('data/safety_map.db')
